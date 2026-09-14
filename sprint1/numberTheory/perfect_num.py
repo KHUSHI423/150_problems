@@ -9,4 +9,4 @@ if __name__ == "__main__":
     if sum_of_divisors == n:
         print(f"{n} is a perfect number.")
     else:
-        print(f"{n} is not a perfect number.")
+        print(f"{n} is not a perfect number.")  
