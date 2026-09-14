@@ -7,6 +7,6 @@ if __name__ == "__main__":
             sum_of_divisors += i
         i += 1
     if sum_of_divisors == n:
-        print(f"{n} is a perfect number.")
+        print(f"{n} is a perfect number")
     else:
-        print(f"{n} is not a perfect number.")  
+        print(f"{n} is not a perfect number")  
