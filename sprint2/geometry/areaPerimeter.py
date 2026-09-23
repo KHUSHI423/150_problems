@@ -2,7 +2,7 @@ import math
 
 PI = 3.14159
 
-shape = input().strip()
+shape = input()
 
 if shape == "circle":
     r = float(input())
