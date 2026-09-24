@@ -7,7 +7,8 @@ while n!=1:
         n//=2
     else:
         n = n*3 + 1
-
+    steps+=1
+print(steps-1," steps")
 for i in ans:
     print(i,end="-")
 print(1)
